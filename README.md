@@ -46,6 +46,7 @@ This is a a footnote[^1]. Another footnote[^2]
 [^1]: My reference
 [^2]: Antoehr footnote
 
+# What you will learn
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 ```python
 def print_log(x):

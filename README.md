@@ -11,6 +11,34 @@ Version control is an essential skill for developers to master, and Git is by fa
 | Three | Four | $120.00 |
 | Five  | Six    | $.99    |
 
+- [x] First
+  - [x] One
+  - [ ] Two
+- [ ] Second
+
+> [!NOTE]
+> A Note
+
+> [!IMPORTANT]
+> Important
+
+> [!WARNING]
+> Warning
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->C;
+```
+
+<details>
+  <summary>collapsed</summary>
+
+  # Header
+
+  This is the copy for the collapsed text.
+</details>
 
 
 This is a a footnote[^1]. Another footnote[^2]
